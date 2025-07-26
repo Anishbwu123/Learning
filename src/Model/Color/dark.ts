@@ -1,0 +1,26 @@
+import {ColorName, ColorObject} from './ColorName';
+
+export const dark: ColorObject = {
+  [ColorName.default_001]: '#FF671F',
+  [ColorName.secondary_001]: '#FFFFFF',
+  [ColorName.secondary_002]: '#B3B3B3',
+  [ColorName.secondary_003]: '#5F5F5F',
+  [ColorName.secondary_004]: '#FFB799',
+  [ColorName.secondary_005]: '#5E3D34',
+  [ColorName.secondary_006]: '#1E0600',
+  [ColorName.secondary_007]: '#FFEDE5',
+  [ColorName.secondary_008]: '#D7D3D1',
+  [ColorName.secondary_009]: '#C3C3C3',
+  [ColorName.secondary_010]: '#5D3D34',
+  [ColorName.secondary_011]: '#F69216',
+  [ColorName.secondary_012]: '#FFB497',
+  [ColorName.secondary_013]: '#9C9C9C',
+  [ColorName.secondary_014]: '#FF956C',
+  [ColorName.secondary_015]: '#FFEEE8',
+  [ColorName.secondary_016]: '#636363',
+  [ColorName.secondary_017]: '#575757',
+  [ColorName.secondary_018]: '#FC390B',
+  [ColorName.secondary_019]: '#FFE8DF80',
+  [ColorName.secondary_099]: '#1E0600',
+  [ColorName.secondary_100]: '#000000',
+};
