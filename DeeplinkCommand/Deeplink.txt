@@ -1,0 +1,1 @@
+ npx uri-scheme open "deeplink://OldLink" --android
