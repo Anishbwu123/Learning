@@ -14,7 +14,7 @@ const Test = () => {
   useEffect(() => {
     GoogleSignin.configure({
       webClientId:
-        '659060051854-5mu1kv0agn03h3d8o0gf0a0cv9spa400.apps.googleusercontent.com', // ✅ Replace with your actual Web Client ID
+        '647137061558-8sak02t7ffjncc621mja5ev2o6tgilu7.apps.googleusercontent.com', 
     });
   }, []);
 

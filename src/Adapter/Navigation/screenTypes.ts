@@ -6,6 +6,7 @@ export enum Screens {
   Test = 'Test',
   NewLink='NewLink',
   OldLink='OldLink',
+  MapScreen='MapScreen',
   SignIn = 'SignIn',
   SignUp = 'SignUp',
   ForgotPassword = 'ForgotPassword',
@@ -93,6 +94,7 @@ export type ScreenParamList = {
   [Screens.Test]: undefined;
   [Screens.NewLink]:undefined;
   [Screens.OldLink]:undefined;
+  [Screens.MapScreen]:undefined;
   [Screens.SignIn]: undefined;
   [Screens.ForgotPassword]: undefined;
   [Screens.SignUp]: undefined;
